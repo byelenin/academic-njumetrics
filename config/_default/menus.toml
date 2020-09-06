@@ -11,21 +11,21 @@
 [[main]]
   name = "News"
   url = "#posts"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Syllabus"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Contact"
-  url = "#featured"
+  url = "#contact"
   weight = 40
 
 [[main]]
   name = "Resource"
-  url = "#contact"
+  url = "#featured"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
